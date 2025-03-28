@@ -11,7 +11,7 @@ __Projects:__ Code and documentation for various AI & ML projects 📊
 
 __Presentations:__ PowerPoint slides on AI & ML topics 📢
 
-Reports: Detailed reports on projects and research papers 📝
+__Reports:__ Detailed reports on projects and research papers 📝
 
 Assignments: Solutions and examples for common assignments 📚
 
