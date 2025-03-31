@@ -15,7 +15,8 @@ __Reports:__ Detailed reports on projects and research papers 📝
 
 __Assignments:__ Solutions and examples for common assignments 📚
 
-How to Contribute 🤝
+**How to Contribute 🤝**
+
 Fork the repository 📁
 
 Add your materials 📈
