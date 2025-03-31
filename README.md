@@ -13,7 +13,7 @@ __Presentations:__ PowerPoint slides on AI & ML topics 📢
 
 __Reports:__ Detailed reports on projects and research papers 📝
 
-Assignments: Solutions and examples for common assignments 📚
+__Assignments:__ Solutions and examples for common assignments 📚
 
 How to Contribute 🤝
 Fork the repository 📁
