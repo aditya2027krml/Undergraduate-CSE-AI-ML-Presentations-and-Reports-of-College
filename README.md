@@ -17,13 +17,13 @@ __Assignments:__ Solutions and examples for common assignments 📚
 
 **How to Contribute 🤝**
 
-Fork the repository 📁
+ - Fork the repository 📁
 
-Add your materials 📈
+ - Add your materials 📈
 
-Create a pull request with a brief description 📝
+ - Create a pull request with a brief description 📝
 
-License 📜
-This repository is licensed under the MIT License. Feel free to use and share! 🎁
+__License 📜__
+- This repository is licensed under the MIT License. Feel free to use and share! 🎁
 
 Thanks for stopping by! 😊 We hope you find these resources super helpful! 🚀
